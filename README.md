@@ -1,16 +1,41 @@
-## Hi there 👋
+Hi there 👋 ,I am Anushka Bhatt✨
 
-<!--
-**anushka964/anushka964** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Education
+- B.tech in Computer science
+Gyan Ganga Institute of Technology and Sciences, Jabalpur
+(present)
+- completed my 10+2 schooling from St.Gabriel Senior Secondary School Jabalpur
 
-Here are some ideas to get you started:
+🛠️ Skills & Expertise
+- Languages: Python, Java, C++, C, HTML5, CSS3
+- Frameworks & Libraries: Bootstrap,Flask,Azure, React, TailwindCSS, Redux, Vite
+- Databases: MongoDB, MySQL
+- Tools: Git, Github, Docker,Vuforia
+- Game engine:Unity
+- Other: REST APIs, Microservices, Cloud Computing (AWS, Azure), Hosting(Alibaba Cloud, Aws)
+- Strong Foundation: Data Structure & Algorithms with Cpp.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Learning & Development
+I'm currently expanding my knowledge in:
+- Advanced concepts of Machine Learning
+- Networking
+- Cybersecurity
+- DevOps and CI/CD pipelines
+
+
+💡 Interests
+When I'm not coding, you can find me:
+- Reading about the latest tech trends and advancements
+- Contributing to open-source projects
+- Participating in hackathons and coding challenges
+- Attending and conducting webinars
+
+📫 Get in Touch
+- Email: anushkabhatt2020@gmail.com
+- LinkedIn: www.linkedin.com/in/anushka-bhatt
+
+
+Feel free to reach out if you want to collaborate on a project, need help with something, or just want to chat about tech!
+---
+
+Thank you for visiting my GitHub profile. Let's build something amazing together!
